@@ -10,6 +10,6 @@ public class PersonController {
 
     @GetMapping
     public String getBook() {
-        return "API Test BUNDÃO!!!";
+        return "API Test BUNDAO!!!";
     }
 }
